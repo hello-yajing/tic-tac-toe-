@@ -1,0 +1,18 @@
+*{
+	margin:0;
+	padding:0;
+}
+.square{
+	width: 32px;
+	height: 32px;
+	border: 1px solid #999;
+	float:left;
+}
+.board{
+	width:102px;
+}
+.board{
+	content:"";
+	display:block;
+	clear:both;
+}
